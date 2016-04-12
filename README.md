@@ -1,4 +1,4 @@
-## require-profiler
+# require-profiler
 
 Simple tool to figure out the tree of `require()` calls and determine how time its taking to load.
 
