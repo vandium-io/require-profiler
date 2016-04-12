@@ -1,0 +1,10 @@
+{
+  "name": "require-profiler",
+  "version": "1.0.0",
+  "description": "Profiles require calls",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "vandium software, inc.",
+  "license": "MIT"
+}
