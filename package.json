@@ -1,10 +1,22 @@
 {
-  "name": "require-profiler",
-  "version": "1.0.0",
-  "description": "Profiles require calls",
-  "main": "index.js",
-  "scripts": {
-  },
-  "author": "vandium software, inc.",
-  "license": "MIT"
+    "name": "require-profiler",
+    "version": "1.0.0",
+    "description": "Profiles require calls",
+    "main": "index.js",
+    "keywords": [
+        "require",
+        "profiler",
+        "tool",
+        "profile",
+        "size",
+        "usage"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vandium-io/require-profiler.git"
+    },
+    "scripts": {
+    },
+    "author": "vandium software, inc.",
+    "license": "MIT"
 }
